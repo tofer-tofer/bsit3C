@@ -1,2 +1,2 @@
 # bsit3C
-application development
+application development and emerging technologies
